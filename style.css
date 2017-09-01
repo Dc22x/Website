@@ -1,0 +1,96 @@
+/*
+.container {
+    background: linear-gradient(#77aaff,#00aba9);
+    background-blend-mode: hard-light;
+    background-size:auto;
+}
+*/
+
+.borderimg{
+    
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    border: 3px solid #ddd;
+    padding: 5px;
+    
+}
+img{
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    opacity: 0.9
+    
+    
+}
+
+h1, h2 {
+            color: darkviolet;
+    text-align: center;
+    font-family: fantasy;
+    text-shadow: white;
+    
+}
+    
+
+h3{
+    color:forestgreen;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    
+}
+
+body {
+    background-color: #000;
+    background-image: url('images/golgo.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 250px 270px;
+    
+    
+}
+
+
+
+p1{
+    font-size: 22x;
+    margin: auto;
+    color:orangered;
+    
+    
+    
+}
+
+.bord{
+    color:whitesmoke;
+    background: overlay crimson;
+    
+    border: 10px dashed red;
+        
+    
+    
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%
+    padding: 5px; 
+    display: block;
+    margin:auto;
+    
+    
+}
+
+ul li, form{
+    color: red;
+    font-size: 10px;
+    
+    
+}
+
+ul >  {
+    color:fuchsia;
+    
+    
+}
